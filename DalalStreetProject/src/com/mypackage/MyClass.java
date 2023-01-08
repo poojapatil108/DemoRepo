@@ -8,7 +8,7 @@ public class MyClass {
 		System.out.println("Maven Dependency add");
 		System.out.println("Extent Rport add");
 		System.out.println("Log4J Add");
-		System.out.println("Basic Stuff");
+		System.out.println("Basic Stuf");
 	}
 
 }
